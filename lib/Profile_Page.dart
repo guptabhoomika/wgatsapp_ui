@@ -188,6 +188,9 @@ class _ProfilePageState extends State<ProfilePage> {
   
                           controller: _textmessage,
                           decoration: InputDecoration(
+
+
+
                             isDense: true,
                             hintText: "Type your name",
                             suffixIcon: Icon(Icons.tag_faces,size: 30,)
